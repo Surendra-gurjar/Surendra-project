@@ -1,0 +1,115 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.discription{
+    display: flex;
+}
+.form {
+    background-image: rgba(0, 0, 0, o.5); 
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    width: 300px;
+    /* background-image: linear-gradient(rgb(145, 223, 253), rgb(193, 193, 95)); */
+    /* box-shadow: 3px 3px 15px 3px rgb(138, 140, 142) ; */
+ } 
+/* 
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    /* background-color: #f0f0f0; */
+/* }
+.container{
+    display: flex;
+    
+}
+.form {
+    /* background-color: #fff; */
+    /* border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    width: 300px;
+    /* background-image: linear-gradient(rgb(145, 223, 253), rgb(193, 193, 95)); */
+    /* box-shadow: 3px 3px 15px 3px rgb(138, 140, 142) ; */
+/* }  */
+ 
+
+/* .container {
+    display: flex;
+    align-items: center;
+    border: 1px solid #817f7f;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+     /* background-image: linear-gradient(rgb(145, 223, 253), rgb(193, 193, 95)); */
+/* }
+
+input {
+    margin-left: -100px;
+    width: 90%;
+    
+}
+label{
+    /* position: relative; */
+    /* margin-left: -50px;
+} */
+
+/* i {
+    font-size: 16px;
+    color: black;
+    margin-left: -273px;
+}
+
+select {
+    width: 70%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    outline: none;
+    margin-left: 40px;
+    background-color:  #007BFF;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    /* box-shadow: 5px 5px 7px 0px white; */
+/* }
+select:hover{
+    background-color: #01336a;
+}
+.button-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    width: 40%;
+    padding: 10px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 30%;
+    font-weight: 600;
+    /* box-shadow: 5px 5px 7px 0px white; */
+/* }
+.btn{
+    position: absolute;
+    bottom: 387px;
+    margin-left: 290px;
+    border: none;
+    background-color: rgb(143, 222, 252);
+    font-size: 23px;
+}
+
+.button:hover {
+    background-color: #0056b3;
+} */ 
